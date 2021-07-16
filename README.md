@@ -1,6 +1,6 @@
 # Organisation-Employee-Details
 Author: Tonia B. Biokoro
-Email: b.biokoro@outlook.com
+ Email: b.biokoro@outlook.com
 
 Application to hold details of employees that belong to an organisation.
 
@@ -12,4 +12,4 @@ The Employee class is inherited by all employee related classes.
 
 The managers, development and sales classes contain information pertaining to each specific type of employee, e.g., number of projects the development department has delivered by the end of the week.
 
-The main method to tests the code.
+Use the main method to test the code.
