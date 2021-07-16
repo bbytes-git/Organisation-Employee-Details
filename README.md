@@ -5,7 +5,7 @@ Email: b.biokoro@outlook.com
 
 Application to hold details of employees that belong to an organisation.
 
-The organisation has employees who have the following roles: managers, development and sales. 
+The organisation has employees who have the following roles: manager, developer and salesperson. 
 
 The Employee class is an abstract class that holds information that is true for the Manager, Sales, and Development classes.
 
